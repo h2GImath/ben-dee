@@ -2,6 +2,7 @@
 good morning my bendy simps
 
 # how to use the file
+0) download both verify_rego.py and cck_bpj_manual.py in a brand new folder (a lot of files will be created in there)
 1) run cck_bpj_manual.py (tele bot version will come later)
 2) enter 1 to create new deployment list, 2 to edit the current deployment list (put it in a .txt file in the same folder first)
    if 2 is chosen, the name of the .txt file will be needed
